@@ -100,8 +100,9 @@ h4{
     width: 50%;
     height: 500px;
     background: rgb(255, 255, 255);
-    padding: 30px;
+    padding: 20px;
     box-sizing: border-box;
+    overflow: scroll;
 }
 
 
@@ -351,7 +352,7 @@ footer{
 }
 
 footer .barra{
-    background: #f7f5f5;
+    background:#f7f5f5;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
